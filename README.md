@@ -1,4 +1,5 @@
 Malaria Diagnosis Project 🦟
+
 This is a web-based application built using Streamlit to diagnose malaria by analyzing blood smear images. The project leverages a pretrained deep learning model to classify images as parasitized or uninfected, aiming to assist in early and accurate malaria detection.
 
 Features
